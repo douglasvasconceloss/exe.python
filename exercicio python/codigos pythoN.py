@@ -22,4 +22,4 @@ for p in range(1,5):
 mediaidade=somaidade/4
 print('a idade media é de {}'.format(mediaidade))
 print('{} mulhere(s) tiveram idade abaixo de 20 anos'.format(idademulher))
-print('o homem mais velho tem {} anos e se chama {}'.format(maioridadehomem,nomevelho))
+print('o homem mais velho tem {} anos de idade e se chama {}'.format(maioridadehomem,nomevelho))
